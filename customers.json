@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"name": "John Doe",
+		"company": "123 Designs",
+		"phone": "444-555-6666"
+	},
+	{
+		"id": 2,
+		"name": "Tommy Morris",
+		"company": "Not your job",
+		"phone": "123-456-8545"
+	},
+	{
+		"id": 1,
+		"name": "Lucy Langhorne",
+		"company": "Boettger and Co.",
+		"phone": "484-795-4769"
+	}
+]

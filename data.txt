@@ -1,0 +1,1 @@
+This is some data for my data file. I've never really used vim in the terminal before, but now that I know what I'm doing I dont think I mind. I wonder if I could type all my projects in vim, hmm. 
